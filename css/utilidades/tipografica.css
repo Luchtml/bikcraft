@@ -41,3 +41,25 @@
 .font-principal-xxl {
     font: 600 4rem/1.125 "Poppins", sans-serif;
 }
+
+
+@media (max-width: 1200px) {
+    .font-primaria-xxl {
+        font-size: 3rem;
+    }
+
+    .font-secundaria-l,
+    .font-secundaria-l-b {
+        font-size: 1.125rem;
+    }
+}
+
+@media (max-width: 800px) {
+    .font-primaria-xxl {
+        font-size: 2rem;
+    }
+    .font-principal-xl,
+    .font-secundaria-xl{
+        font-size: 1.5rem;
+    }
+}
