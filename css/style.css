@@ -4,6 +4,11 @@
 /* globais */
 @import url(global/global.css);
 
+/* tipografia */
+@import url(utilidades/tipografica.css);
+
+@import url(utilidades/cores.css);
+
 /* header */
 @import url(global/header.css);
 
